@@ -1,0 +1,7 @@
+h2o
+pandas
+numpy
+tqdm
+rdkit
+torch
+torch_geometric
